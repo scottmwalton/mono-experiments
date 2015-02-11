@@ -1,6 +1,0 @@
-/home/scoot/code/SimpleServer/SimpleServer/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
-/home/scoot/code/SimpleServer/SimpleServer/bin/Debug/SimpleServer.exe.config
-/home/scoot/code/SimpleServer/SimpleServer/bin/Debug/SimpleServer.exe.mdb
-/home/scoot/code/SimpleServer/SimpleServer/bin/Debug/SimpleServer.exe
-/home/scoot/code/SimpleServer/SimpleServer/obj/Debug/SimpleServer.exe
-/home/scoot/code/SimpleServer/SimpleServer/obj/Debug/SimpleServer.exe.mdb
