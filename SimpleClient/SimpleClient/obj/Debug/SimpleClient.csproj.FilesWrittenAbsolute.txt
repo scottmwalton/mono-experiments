@@ -1,0 +1,6 @@
+/home/scoot/code/SimpleClient/SimpleClient/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/scoot/code/SimpleClient/SimpleClient/bin/Debug/SimpleClient.exe.config
+/home/scoot/code/SimpleClient/SimpleClient/bin/Debug/SimpleClient.exe.mdb
+/home/scoot/code/SimpleClient/SimpleClient/bin/Debug/SimpleClient.exe
+/home/scoot/code/SimpleClient/SimpleClient/obj/Debug/SimpleClient.exe
+/home/scoot/code/SimpleClient/SimpleClient/obj/Debug/SimpleClient.exe.mdb

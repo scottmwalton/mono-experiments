@@ -1,0 +1,6 @@
+F:\Work\Prototypes\SimpleServer\SimpleServer\bin\Debug\SimpleServer.exe.config
+F:\Work\Prototypes\SimpleServer\SimpleServer\bin\Debug\SimpleServer.exe
+F:\Work\Prototypes\SimpleServer\SimpleServer\bin\Debug\SimpleServer.pdb
+F:\Work\Prototypes\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csprojResolveAssemblyReference.cache
+F:\Work\Prototypes\SimpleServer\SimpleServer\obj\Debug\SimpleServer.exe
+F:\Work\Prototypes\SimpleServer\SimpleServer\obj\Debug\SimpleServer.pdb

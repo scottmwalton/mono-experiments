@@ -1,0 +1,5 @@
+F:\Work\Prototypes\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe.config
+F:\Work\Prototypes\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe
+F:\Work\Prototypes\SimpleClient\SimpleClient\bin\Debug\SimpleClient.pdb
+F:\Work\Prototypes\SimpleClient\SimpleClient\obj\Debug\SimpleClient.exe
+F:\Work\Prototypes\SimpleClient\SimpleClient\obj\Debug\SimpleClient.pdb
